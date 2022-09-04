@@ -9,7 +9,15 @@
  *      * must use the `class_of` property in the introduction
  */
 const personObject = {
-
+  first_name: 'John',
+  last_name: 'Juilfs',
+  class_of: 2017,
+  full_name : function() {
+    return this.first_name + ` ` + this.last_name;
+  },
+  introduction : function() {
+    return this.full_name() + `: Class of ` + this.class_of;
+  }
 };
 
 module.exports = {
