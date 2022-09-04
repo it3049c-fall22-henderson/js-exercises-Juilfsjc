@@ -15,7 +15,8 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 
 ## Self-Evaluation: 
 (For this assignment, there was 22 exercises checked by 68 automated checks)
-how many points out of 20 do you deserve on this assignment: 20 out of 20
+how many points out of 20 do you deserve on this assignment: 
+20 out of 20
 
 ## Self-Reflection:
 I found that the logical operators section and the arrays section taught me the most about Javascript that I did not know before which was cool. I also feel that th lessons learned from these exercises can be easily implemented into my own code and can be used to improve the overall quality of my coding which is nice.
