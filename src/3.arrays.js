@@ -24,7 +24,7 @@ function filterOut(arr, item) {
 // Append: you should be able to add an item to the end of an array
 function append(arr, item) {
   arr.push(item);
-  return ;
+  return arr;
 }
 
 // Truncate: you should be able to remove the last item of an array
